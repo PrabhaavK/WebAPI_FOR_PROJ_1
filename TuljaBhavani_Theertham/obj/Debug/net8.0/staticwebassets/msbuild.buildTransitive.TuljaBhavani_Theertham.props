@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\TuljaBhavani_Theertham.props" />
+</Project>
